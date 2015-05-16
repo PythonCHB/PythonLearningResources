@@ -19,3 +19,6 @@ of the materials to support the textbook.
 
 http://www.pythonlearn.com/
 
+http://www.pythonlearn.com/book.php
+
+

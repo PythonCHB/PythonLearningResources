@@ -21,4 +21,9 @@ http://www.pythonlearn.com/
 
 http://www.pythonlearn.com/book.php
 
+Performance Tips
+================
+
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips
+
 
